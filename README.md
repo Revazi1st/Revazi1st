@@ -1,6 +1,6 @@
 # Hi, I'm Revazi
 
-Full Stack .NET Team Lead at LEPL Information Technology Agency (ITA), Tbilisi, Georgia.
+Full Stack .NET Tech Lead & Team Lead at LEPL Information Technology Agency (ITA), Tbilisi, Georgia.
 
 I've spent 6+ years building .NET systems across government, banking, and SaaS integration platforms. My team works on Georgia's national healthcare and social benefit services, and I stay hands-on in the code.
 
